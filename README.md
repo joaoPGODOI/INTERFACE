@@ -22,3 +22,4 @@ Utilização de uma interface para calculo especifico de bônus
 📌 Versão Interface 1.0
 
 ✒️ Autores João Pedro Godoi da Silva - Interface
+![Diagrama sem nome drawio (1)](https://github.com/user-attachments/assets/63b66f2d-df7f-4cca-8e0f-ee1af6605614)
